@@ -1,5 +1,79 @@
-#nav-bar {
+​#nav-bar {
     position: fixed;
     top: 0px;
     width: 100%;
-}​
+    }
+
+body{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(228, 210, 198, 0.411);
+}
+
+
+#header-img{
+width: 5%;
+position: absolute;
+top: 5%;
+left: 0%;
+}
+
+#name{
+    position: absolute;
+    top: 3.5%;
+    left: 5%;
+}
+
+#form-section{
+    position: relative;
+    top: 6.5%;
+    left: 30%;
+    
+}
+
+#What_we_do{
+    position: relative;
+    top: 7.5%;
+    left: 30%;
+}
+
+#product{
+text-align: center;
+position: relative;
+top: 7.5%;
+width: 100%;
+}
+
+#product1{
+    position: absolute;
+top: 100%;
+left: 0%;
+}
+
+#product2{
+    position: absolute;
+top: 100%;
+left: 34%;
+}
+
+#product3{
+    position: absolute;
+top: 100%;
+left: 68%;
+}
+.head{
+    background-color: coral;
+}
+
+.btn{
+    background-color: coral;
+
+}
+
+.product{
+
+    width: 32%;
+    
+    background-color: rgb(230, 21, 21);
+}
