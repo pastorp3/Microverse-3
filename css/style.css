@@ -1,4 +1,3 @@
-@media (max-width: 600px){
-header {
-    flex-wrap: wrap;
-}}
+body {
+    flex: 1;
+}
